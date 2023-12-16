@@ -1,0 +1,13 @@
+.bookings {
+  margin-top: 50px;
+
+  padding: 0px 30px;
+  padding-bottom: 50px;
+}
+
+.booking__title {
+  font-size: 1.5rem;
+  color: #fff;
+  margin-bottom: 2rem;
+}
+

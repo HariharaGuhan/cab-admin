@@ -1,0 +1,43 @@
+/* notification-card.css */
+
+.notification-card {
+  background-color: #fff;
+  border: 0.5px solid #ccc;
+  border-radius: 8px;
+  box-shadow: rgba(54, 52, 52, 0.35) 4px 8px 14px;
+  padding: 10px;
+  width: 400px;
+  position: absolute;
+  top: 50px;
+  right: 70px;
+}
+
+.notification-card h3 {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.notification-card .notification-count {
+  background-color: #ff5733;
+  color: #fff;
+  border-radius: 50%;
+  padding: 4px 8px;
+  font-size: 14px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.notification-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.notification-card li {
+  margin-bottom: 4px;
+  font-size: 14px;
+  color: #333;
+}
+
+
